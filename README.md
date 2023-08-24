@@ -7,8 +7,7 @@
 
 ## Steps to run the program:
 ##### 1. Setup Developer Accounts
-###### -> Register as a developer on the Spotify Developer Dashboard (https://developer.spotify.com/dashboard/) and the Google Developers Console (https://console.developers.google.com/).
-Create a new app on both platforms to get the necessary API keys and credentials.
+###### -> Register as a developer on the Spotify Developer Dashboard (https://developer.spotify.com/dashboard/) and the Google Developers Console (https://console.developers.google.com/). Create a new app on both platforms to get the necessary API keys and credentials.
 ##### 2. Install Required Libraries
 ###### -> You'll need to install the following Python libraries using pip:
 
